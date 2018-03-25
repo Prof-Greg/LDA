@@ -1,0 +1,13 @@
+This set of codes is used for the manuscript “An Unsupervised Bayesian Hierarchical Method for Medical Fraud Assessment” 
+that is under review in “Statistical Analysis and Data Mining”. Please feel free to reach Greg Lakomski(gl1082@txstate.edu)
+or Tahir Ekin (t_e18@txstate.edu, www.tahirekin.com) for more information.
+
+Abstract
+
+The increasing size and complexity of healthcare industry makes it attractive for fraudsters, therefore medical 
+fraud assessment has gained more importance. Statistical methods can help medical auditors reveal fraud patterns 
+within medical claims data. This paper proposes an unsupervised Bayesian hierarchical method as a pre-screening 
+tool to aid in medical fraud assessment. The proposed hierarchical model helps the investigator group medical 
+procedures and identify the hidden patterns among providers and medical procedures. Outlier detection and similarity 
+assessment are conducted to analyze the billing differences among providers. We illustrate the utilization of the 
+proposed method using U.S. Medicare Part B data and discuss the potential insights for medical audit decision making.
